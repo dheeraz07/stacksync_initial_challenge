@@ -14,4 +14,3 @@ pip-delete-this-directory.txt
 *.egg-info/
 dist/
 build/
-test_executor.py
